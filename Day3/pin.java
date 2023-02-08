@@ -36,7 +36,6 @@ public int createPIN(int input1,int input2, int input3){
       return (int)(max*1000+sum);
     }
 }
-}
 
 
 
